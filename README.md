@@ -8,10 +8,10 @@ This repository contains code for a machine learning model that can classify ima
 # How to Run Program
 To run the program, you will need to install Python and the following libraries:
 
-numpy
-pandas
-scikit-learn
-TensorFlow
+- numpy
+- pandas
+- scikit-learn
+- TensorFlow
 After installing the necessary libraries, you can run the program by executing the main.py file using the command python main.py in your terminal.
 
 # Files Used
