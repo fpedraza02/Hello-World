@@ -16,7 +16,7 @@ To run the program, you will need to install Python and the following libraries:
 After installing the necessary libraries, you can run the program by executing the main.py file using the command python main.py in your terminal.
 
 # Files Used
-The following files are used in this project:
+*The following files are used in this project:*
 
 main.py: the main file that contains the code for training the machine learning model and making predictions on test data
 data.csv: a CSV file containing the image data and corresponding labels
