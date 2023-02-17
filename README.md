@@ -21,9 +21,10 @@ After installing the necessary libraries, you can run the program by executing t
 **main.py:** the main file that contains the code for training the machine learning model and making predictions on test data
 
 **data.csv:** a CSV file containing the image data and corresponding labels
+
 **model.h5:** a file containing the trained machine learning model
 
----Additional Documentation
+--- Additional Documentation
 
 For more information on how the model was built and how to interpret the results, please refer to the documentation.md file in this repository.
 
